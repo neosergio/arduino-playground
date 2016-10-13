@@ -1,6 +1,6 @@
 from pyfirmata import Arduino
 
-PORT = '/dev/cu.usbmodem30'
+PORT = '/dev/cu.usbmodem1421'
 PIN = 13
 
 board = Arduino(PORT)
