@@ -1,0 +1,2 @@
+pyFirmata==1.0.3
+pyserial==3.1.1
